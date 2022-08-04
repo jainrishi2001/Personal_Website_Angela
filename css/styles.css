@@ -1,1 +1,20 @@
-
+body {
+    margin: 0;
+}
+h1 {
+    margin-top: 0;
+}
+.top-container {
+    background-color: aqua;
+    
+}
+.middle {
+    background-color: Red;
+    height: 200px;
+    width: 200px;
+}
+.bottom {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+}
