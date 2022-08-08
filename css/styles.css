@@ -23,15 +23,11 @@ h3 {
     position: relative;
     
 }
-.middle {
-    background-color: Red;
-    height: 200px;
-    width: 200px;
+.middle-container {
+    
 }
-.bottom {
-    background-color: yellow;
-    width: 200px;
-    height: 200px;
+.bottom-container {
+    
 }
 .bottom-cloud {
     position: absolute;
@@ -39,4 +35,17 @@ h3 {
 .top-cloud {
     position: absolute;
     margin-left: 10%;
+}
+
+.mine {
+    height: 5cm;
+    border-radius: 45px;
+}
+
+.technical{
+    height: 8cm;
+}
+
+.Pogo {
+    height: 5cm;
 }
